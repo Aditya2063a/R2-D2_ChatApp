@@ -1,4 +1,4 @@
-<h1>R2-D2 Chat_App</h1>
+<h1 classname="text-center flex justify-center items-center">R2-D2 Chat_App</h1>
 
 <p>
   Name: Aditya Kumar Singh<br/>

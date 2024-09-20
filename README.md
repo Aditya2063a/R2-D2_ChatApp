@@ -5,12 +5,12 @@ Project Name: R2-D2 Chat App
 Author: Aditya Kumar Singh
 OverView: Our chat website is designed with User Experience at the forefront. With advanced security measures, your privacy is always protected.
 
-2. Architectural Overview
-Technology Stack:
-  Frontend:  React.js
-  Backend: Node.js
-  Database: MongoDB
-  APIs: REST
+2. Architectural Overview/n
+Technology Stack:/n
+  Frontend:  React.js/n
+  Backend: Node.js/n
+  Database: MongoDB/n
+  APIs: REST/n
 
 
 3. Setup & Running the Prototype

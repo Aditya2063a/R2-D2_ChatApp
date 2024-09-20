@@ -7,5 +7,5 @@
   Apply for: Software Engineer<br/>
 </p>
 
-<h3>documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>
-<h3>deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
+<h3>Documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>
+<h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth

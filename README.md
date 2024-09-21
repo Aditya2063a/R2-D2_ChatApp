@@ -4,9 +4,7 @@
   Name: Aditya Kumar Singh<br/>
   College: Indian Institute of Technology, Mandi<br/>
   Department: Engineering Physics <br/>
-  Apply for: Software Engineer<br/>
 </p>
-
 Email: [b22255@students.iitmandi.ac.in](mailto:b22255@students.iitmandi.ac.in)  
 Assignment: Build a Messaging Chat Prototype  
 Role: Software Engineer  

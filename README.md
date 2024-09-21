@@ -7,8 +7,6 @@
   Apply for: Software Engineer<br/>
 </p>
 
-## Author: 
-**Aditya Kumar Singh**  
 Email: [b22255@students.iitmandi.ac.in](mailto:b22255@students.iitmandi.ac.in)  
 Assignment: Build a Messaging Chat Prototype  
 Role: Software Engineer  

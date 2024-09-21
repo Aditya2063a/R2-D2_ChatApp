@@ -7,20 +7,13 @@
   Apply for: Software Engineer<br/>
 </p>
 
-<h3>Documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>
-<h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
-
-
-# R2-D2 Chat App
-
 ## Author: 
 **Aditya Kumar Singh**  
 Email: [b22255@students.iitmandi.ac.in](mailto:b22255@students.iitmandi.ac.in)  
 Assignment: Build a Messaging Chat Prototype  
 Role: Software Engineer  
 
-### Deploy Link: 
-[R2-D2 Chat App](#)  
+<h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
 
 ---
 
@@ -97,3 +90,32 @@ npm install
 
 # Start the frontend server
 npm run dev
+```
+#### BacKend:
+``` bash
+# Install dependencies
+npm install
+
+# Start the backend server
+npm run dev
+
+```
+
+#### Instruction to setup .emv file 
+
+#### Frontend:
+```bash
+VITE_SERVER_URL="http://localhost:8747"
+VITE_SOCKET_URL="http://localhost:3001"
+
+```
+#### BacKend:
+``` bash
+PORT=8747
+JWT_KEY="" # Please enter JWT_KEY (any value for passwords)
+ORIGIN="http://localhost:5173"
+DATABASE_URL="" # Please enter the database URL (e.g., MongoDB)
+API_KEY="" # Please enter the API key for Gemini
+```
+
+<h3>Documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>

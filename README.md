@@ -14,9 +14,8 @@ Assignment: Build a Messaging Chat Prototype
 Role: Software Engineer  
 
 <h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
-<h3>UI UX folder link: </h3>
-https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link
-===
+<h3>UI UX folder link: </h3> https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link
+---
 
 ## Overview
 Our chat website is designed with User Experience at the forefront. With advanced security measures, your privacy is always protected.

@@ -20,7 +20,6 @@ Role: Software Engineer
 ## Overview
 Our chat website is designed with User Experience at the forefront. With advanced security measures, your privacy is always protected.
 
----
 
 ## Architectural Overview
 

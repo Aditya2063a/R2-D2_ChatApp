@@ -101,7 +101,7 @@ npm run dev
 
 ```
 
-#### Instruction to setup .emv file 
+#### Instruction to setup .env file 
 
 #### Frontend:
 ```bash
@@ -117,5 +117,9 @@ ORIGIN="http://localhost:5173"
 DATABASE_URL="" # Please enter the database URL (e.g., MongoDB)
 API_KEY="" # Please enter the API key for Gemini
 ```
+
+
+![Chat App Screenshot]([https://example.com/screenshots/chat-app.png](https://www.google.com/search?sca_esv=ce5c85006619e53a&sca_upv=1&sxsrf=ADLYWIKmaIZj0JS7JO2QHs1jHukFKNgiYA:1726904170054&q=image&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Ns6EVsgc0W_0xN47PHaanAEtg26fpfc9gg2y1-ZsywNNidIzOA0khSyMN51n7r3LlDC9M1NYStuTRDcBUYQ58dKt-Q6SigUS4Yne5yDHLg0vPBr98Nz98twIaNcnWiKaD4QuEh93Q53sB-UkWP9OcfO5KeatY98HR7cDW9ZTjFpZV7kJtA&sa=X&ved=2ahUKEwix1Pesw9OIAxXVU_UHHcdFGbsQtKgLegQIEBAB&biw=1920&bih=978&dpr=1#vhid=2brKLR3s5kTpPM&vssid=mosaic))
+
 
 <h3>Documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>

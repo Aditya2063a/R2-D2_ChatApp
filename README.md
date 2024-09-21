@@ -117,5 +117,3 @@ DATABASE_URL="" # Please enter the database URL (e.g., MongoDB)
 API_KEY="" # Please enter the API key for Gemini
 ```
 
-
-<h3>Documentation google file link: </h3> https://docs.google.com/document/d/1nBxH5-rKhfvXqkXQynovXJqVxaQ80eJQv_9LCdrYttg/edit<br/>

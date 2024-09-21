@@ -4,10 +4,11 @@
   Name: Aditya Kumar Singh<br/>
   College: Indian Institute of Technology, Mandi<br/>
   Department: Engineering Physics <br/>
+  Email: [b22255@students.iitmandi.ac.in](mailto:b22255@students.iitmandi.ac.in)  <br/>
+  Assignment: Build a Messaging Chat Prototype <br/>
+  Role: Software Engineer <br/>
 </p>
-Email: [b22255@students.iitmandi.ac.in](mailto:b22255@students.iitmandi.ac.in)  
-Assignment: Build a Messaging Chat Prototype  
-Role: Software Engineer  
+  
 
 <h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
 <h3>UI UX folder link: </h3> https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link

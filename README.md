@@ -114,3 +114,8 @@ DATABASE_URL="" # Please enter the database URL (e.g., MongoDB)
 API_KEY="" # Please enter the API key for Gemini
 ```
 
+#### Instruction to use Ai
+1.Use '@ai' to initiate any AI-driven query in the chat. <br/>
+2.Type your question immediately after '@ai' without spaces. <br/>
+3.Ensure clear and concise questions for accurate responses. <br/>
+4.Example: "@ai What's the weather like today?" <br/>

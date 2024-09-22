@@ -12,6 +12,7 @@
 
 <h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
 <h3>UI UX folder link: </h3> https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link
+<h3>UI UX folder link: </h3> https://drive.google.com/drive/u/2/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA
 ---
 
 ## Overview

@@ -10,7 +10,7 @@
 </p>
   
 
-<h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app/auth
+<h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app
 <h3>UI UX folder link: </h3> https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link
 <h3>Demo Video: </h3> https://photos.app.goo.gl/Fy8huFG5cuorj2v49
 

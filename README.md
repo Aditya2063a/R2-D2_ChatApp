@@ -1,21 +1,12 @@
 <h1 classname="text-center flex justify-center items-center">R2-D2 Chat_App</h1>
 
-<p>
-  Name: Aditya Kumar Singh<br/>
-  College: Indian Institute of Technology, Mandi<br/>
-  Department: Engineering Physics <br/>
-  Email: <a href="mailto:b22255@students.iitmandi.ac.in">b22255@students.iitmandi.ac.in</a>  <br/>
-  Assignment: Build a Messaging Chat Prototype <br/>
-  Role: Software Engineer <br/>
-</p>
-  
+## Overview
+Our chat website is designed with User Experience at the forefront. With advanced security measures, your privacy is always protected.
 
 <h3>Deploy link: </h3> https://sprightly-cendol-36c4bb.netlify.app
 <h3>UI UX folder link: </h3> https://drive.google.com/drive/folders/1AJ8tSignzWOPwPvzDfRjTOc5m3CWCkBA?usp=drive_link
 <h3>Demo Video: </h3> https://photos.app.goo.gl/Fy8huFG5cuorj2v49
 
-## Overview
-Our chat website is designed with User Experience at the forefront. With advanced security measures, your privacy is always protected.
 
 #### Instruction to use ChatAI
 1.Use '@ai' to initiate any AI-driven query in the chat. <br/>
